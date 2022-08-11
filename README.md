@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-my name is tritranduc
+my name is code-ga
 
 ### My Stats (If you want to know)
 
