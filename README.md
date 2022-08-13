@@ -4,11 +4,11 @@ my name is code-ga
 
 ### My Stats (If you want to know)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tritranduc&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-ga&show_icons=true&theme=radical)
 
 ### I can code 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tritranduc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-ga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tritranduc/tritranduc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
