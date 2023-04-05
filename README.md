@@ -10,6 +10,8 @@ my name is code-ga
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-ga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://app.daily.dev/codengunhatquadat"><img src="https://api.daily.dev/devcards/d975c96ad6044aa6b26b88a201b07875.png?r=io9" width="400" alt="code ngu nhất quả đất's Dev Card"/></a>
+
 <!--
 **tritranduc/tritranduc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
